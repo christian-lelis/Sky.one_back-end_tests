@@ -1,0 +1,15 @@
+A:\Estudos\C#\teste 4\bin\Debug\net7.0-windows\teste 4.exe
+A:\Estudos\C#\teste 4\bin\Debug\net7.0-windows\teste 4.deps.json
+A:\Estudos\C#\teste 4\bin\Debug\net7.0-windows\teste 4.runtimeconfig.json
+A:\Estudos\C#\teste 4\bin\Debug\net7.0-windows\teste 4.dll
+A:\Estudos\C#\teste 4\bin\Debug\net7.0-windows\teste 4.pdb
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.csproj.AssemblyReference.cache
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.GeneratedMSBuildEditorConfig.editorconfig
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.AssemblyInfoInputs.cache
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.AssemblyInfo.cs
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.csproj.CoreCompileInputs.cache
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.dll
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\refint\teste 4.dll
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.pdb
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\teste 4.genruntimeconfig.cache
+A:\Estudos\C#\teste 4\obj\Debug\net7.0-windows\ref\teste 4.dll

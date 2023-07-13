@@ -1,0 +1,15 @@
+A:\Estudos\C#\teste 1\bin\Debug\net7.0\teste 1.exe
+A:\Estudos\C#\teste 1\bin\Debug\net7.0\teste 1.deps.json
+A:\Estudos\C#\teste 1\bin\Debug\net7.0\teste 1.runtimeconfig.json
+A:\Estudos\C#\teste 1\bin\Debug\net7.0\teste 1.dll
+A:\Estudos\C#\teste 1\bin\Debug\net7.0\teste 1.pdb
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.csproj.AssemblyReference.cache
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.AssemblyInfoInputs.cache
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.AssemblyInfo.cs
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.csproj.CoreCompileInputs.cache
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.dll
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\refint\teste 1.dll
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.pdb
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\teste 1.genruntimeconfig.cache
+A:\Estudos\C#\teste 1\obj\Debug\net7.0\ref\teste 1.dll
